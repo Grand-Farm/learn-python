@@ -10,4 +10,4 @@ for number in range(1, numbers + 1):
 
       print(number)
 
-# event number from to 100 with for loop and while loop
+# event number from to 100 with for loop and while loop.
